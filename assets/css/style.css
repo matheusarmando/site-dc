@@ -1,0 +1,20 @@
+.list li {
+    display: inline;
+    list-style: none;
+}
+address > dl > dt{
+    font-weight: 400;
+}
+.remove-link{
+    text-decoration: none;
+    color: #000;
+}
+.remove-link:hover{
+    transition: 0.2s;
+    text-decoration: none;
+    color: #636262;
+}
+.copy{
+    background-color: #212529;
+    color: #fff;
+}
